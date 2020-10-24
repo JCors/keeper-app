@@ -18,6 +18,12 @@ header {
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
 
+h3 {
+  font-family: "McLaren", cursive;
+  font-weight: bold;
+  text-align: center;
+}
+
 header h1 {
   color: #fff;
   font-family: "McLaren", cursive;
